@@ -1,4 +1,5 @@
 # 👋 Hi there, I’m Phan Thị Minh Thư!
+![Hello Gif](https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=790b7611vja7qyeldfopw8vl5x3se2awj35z0i8j0belbxxv&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## 👩‍💻 About Me
 - 🎓 I’m a final-year student majoring in **Frontend Web Development** at **FPT Polytechnic College**.
