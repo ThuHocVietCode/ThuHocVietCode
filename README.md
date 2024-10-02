@@ -1,24 +1,43 @@
-## Hi there 👋
+# 👋 Hi there, I’m Phan Thị Minh Thư!
 
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React" /> 
-  <img src="https://img.shields.io/badge/Framework-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /> 
-  <img src="https://img.shields.io/badge/Frontend-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> 
-  <img src="https://img.shields.io/badge/Version%20Control-Git-orange?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> 
-  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> 
-  <img src="https://img.shields.io/badge/Tools-VS%20Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> 
-</p>
+## 👩‍💻 About Me
+- 🎓 I’m a final-year student majoring in **Frontend Web Development** at **FPT Polytechnic College**.
+- 👀 I’m passionate about **building dynamic user interfaces** and enhancing **user experience**.
+- 💡 I’m always eager to learn the latest technologies in web development and challenge myself with new projects.
 
-**ThuHocVietCode/ThuHocVietCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills & Technologies
+- **Frontend**: HTML5 | CSS3 | JavaScript (ES6+) | Bootstrap | React.js | MUI (Material-UI)
+- **Backend**: Node.js | Express.js | API Development
+- **Tools & Platforms**: Git | GitHub | Postman | Figma
+- **Other Skills**: Responsive Web Design | Cross-browser Compatibility | UX/UI
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Advanced React and state management with Redux
+- Exploring backend technologies to become a **Full-Stack Developer**.
+- Continuous learning of **API Development** and database integration.
 
-- 🔭 I’m currently working on FPT
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🤝 Open to Collaborate On
+- Web development projects, especially in frontend.
+- Open-source contributions that focus on web performance and accessibility.
+- Projects where I can enhance user interface and experience.
+
+## 📫 How to Reach Me
+- **Email**: thuptm1205@gmail.com
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com)
+
+## 😄 Pronouns
+- She/Her
+
+## ⚡ Fun Fact
+- Besides coding, I love creating **unboxing review videos** for tech gadgets and household items. I also enjoy experimenting with new tools to create engaging content for my audience.
+
+---
+
+Thanks for stopping by! 😊 Feel free to check out my repositories and connect with me for any collaboration opportunities!
+
+<!---
+ThuHocVietCode/ThuHocVietCode is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 
