@@ -27,7 +27,7 @@
 
 ## 📫 How to Reach Me
 - **Email**: thuptm1205@gmail.com
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com)
+- **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com](https://www.linkedin.com/in/th%C6%B0-phan-00241a303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 
 ## 😄 Pronouns
 - She/Her
