@@ -1,4 +1,4 @@
-# <h1 align="center">👋 Hi there, I’m Phan Thị Minh Thư!</h1>
+# <h1 align="center">👋 Hi everyone, I’m Phan Thị Minh Thư!</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hL9q5k9dk9l0wGd4e0/giphy.gif?cid=ecf05e47onbm8yhdykpnjrbqohebfo7r01baj4mwkodn9w0i&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Hello Gif" />
