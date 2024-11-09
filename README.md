@@ -30,7 +30,7 @@
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/th%C6%B0-phan-00241a303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ## ⚡ Fun Fact
-- Besides coding, I love creating **unboxing review videos** for tech gadgets and household items. I also enjoy experimenting with new tools to create engaging content for my audience.
+- Besides coding, I like to create **unboxing** videos to market items, decor, cosmetics, ... I also like to test with new tools to create attractive content for my audience.
 
 ---
 
