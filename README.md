@@ -34,7 +34,7 @@
 
 ---
 
-Thanks for stopping by! 😊 Feel free to check out my repositories and connect with me for any collaboration opportunities!
+Thanks for stopping by! 😊
 
 <!---
 ThuHocVietCode/ThuHocVietCode is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
